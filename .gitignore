@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+ADM-cmiyc_data-small.csv
+ADM-cmiyc_data.csv
+ADM-kddcup_data-small.csv
+ADM-kddcup_data.csv
